@@ -1,98 +1,37 @@
 The Application Security Program Quick Start Guide
 ==================================================
 
-### Preface
+* [About][about]
+* [Day 1][day-1]
+ * Management
+ * Security
+ * IT Operations
+ * Engineering Groups
 
-This guide is intended to be a short, straightforward introductory guide
-to standing-up or improving an Application Security Program1. The
-intended goal of the AppSec program is to implement measures throughout
-the code’s life-cycle to prevent gaps in the application security policy
-or the underlying system through flaws in the design, development,
-deployment, upgrade, or maintenance of the application.
+* [Day 2][day-2]
+ * Asset Discovery
+ * Asset Risk Prioritization
+ * Communication Plan
 
-The application security program should effectively manage the security
-of its application systems, protecting information from unauthorized
-access, use, disclosure, disruption, modification, or destruction in
-order to provide integrity, confidentiality and availability.
+* [Day 3][day-3]
+ * Vulnerability Assessments
+ * Vulnerability Delivery
 
-A fundamental component of this improved application security management
-is the ability to demonstrate acceptable levels of risk based on defined
-KPIs, including but limited to:
+* [Day 4][day-4]
+ * Measured Metrics
 
-1.  The number of vulnerabilities present in an application
-2.  The time to fix vulnerabilities
-3.  The remediation rate of vulnerabilities
-4.  The time vulnerabilities remain open
+* [Day 5][day-5]
+ * Compensating Controls
+ * Mitigating Controls
+ * Remediation Prioritization
+ 
+* [Conclusion][conclusion] 
 
-The application security program deliverables include a holistic view of
-the state of security for each application, identifying the risks
-associated with the application and the countermeasures implemented to
-mitigate those risks, explaining how security is implemented, planning
-for system downtimes and emergencies, and providing a formal plan to
-improve the security in one or more of these areas.
-
-### Audience
-
-The intended audience of this document is anyone from security
-engineers, developers, program managers, senior managers or a senior
-executive. This guide should be considered the start of a comprehensive
-approach, it is intended to give the basic questions and answers that
-should be asked by those who are in charge of the application security
-program in your organization, this includes those responsible for
-managing the risk of the entire organization.
-
-[Day 1][day-1]
----------
-
-*'* Key Activities: *'*
-
--   Management
--   Security
--   IT Operations
--   Engineering Groups
-
-[Day 2][day-2]
----------
-
-*'* Key Activities: *'*
-
--   Asset Discovery
--   Asset Risk Prioritization
--   Communication Plan]
-
-[Day 3][day-3]
----------
-
-*'* Key Activities: *'*
-
--   Vulnerability Assessments
--   Vulnerability Delivery
-
-[Day 4][day-4]
----------
-
-*'* Key Activities: *'*
-
--   [Measured Metrics][]
-
-[Day 4][day-4.md]
----------
-
-*'* Key activities: *'*
-
--   Compensating Controls
--   Mitigating Controls
--   Remediation Prioritization
-
-Conclusion
-----------
-
-Setting up an effective application security program does require
-commitment from all elements of the business, and a clear under
-
-  [Day-1]: day-1.md "Day 1"
-  [Day-2]: day-1.md "Day 2"
-  [Day-3]: day-1.md "Day 3"
-  [Day-4]: day-1.md "Day 4"
-  [Day-5]: day-1.md "Day 5"
+  [about]: about.md "About"
+  [day-1]: day-1.md "Day 1"
+  [day-2]: day-2.md "Day 2"
+  [day-3]: day-3.md "Day 3"
+  [day-4]: day-4.md "Day 4"
+  [day-5]: day-5.md "Day 5"
+  [conclusion]: conclusion.md "Conclusion"
   

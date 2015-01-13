@@ -1,4 +1,4 @@
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[Back to index][index]
 
 Key Activities
 --------------
@@ -222,7 +222,6 @@ Implement a deputy program that:
 -   can address the points throughout the development cycle where
     vulnerabilities are introduced – at the time the code is written
 
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
-  [\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide]: Application Security Program Quick Start Guide
-    "wikilink"
+[index]: index.md "Index"

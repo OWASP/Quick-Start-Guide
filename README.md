@@ -1,6 +1,6 @@
 ###OWASP Application Security Program Quick Start Guide
 
-This guide is intended to be a short, straightforward introductory guide to standing-up or improving an Application Security Program1. The intended goal of the AppSec program is to implement measures throughout the code’s life- cycle to prevent gaps in the application security policy or the underlying system through flaws in the design, development, deployment, upgrade, or maintenance of the application.
+This guide is intended to be a short, straightforward introductory guide to standing-up or improving an Application Security Program. The intended goal of the AppSec program is to implement measures throughout the code’s life- cycle to prevent gaps in the application security policy or the underlying system through flaws in the design, development, deployment, upgrade, or maintenance of the application.
 The application security program should effectively manage the security of its application systems, protecting information from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide integrity, confidentiality and availability.
 
 A fundamental component of this improved application security management is the ability to demonstrate acceptable levels of risk based on defined KPIs, including but limited to:

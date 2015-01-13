@@ -1,4 +1,4 @@
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
 Key Activities
 --------------
@@ -81,8 +81,6 @@ must:
     vulnerabilities.
     
 
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
-
-  [\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide]: Application Security Program Quick Start Guide
-    "wikilink"
+[index]: index.md "Index"

@@ -36,39 +36,13 @@ Asset Risk Prioritization
 impact to confidentiality, integrity and availability (C.I.A.). (See:
 [1][])
 
-POTENTIAL IMPACT
+Table: SECURITY OBJECTIVE vs POTENTIAL IMPACT (Low, Moderate, High)
 
-***Table below needs converting from WikiText to Markdown***
-```
-{| class="wikitable" style="color:black; background-color:#C1D9DD;" cellpadding="10"
-!SECURITY OBJECTIVE
-!LOW
-!MODERATE
-!HIGH
-|-
-|Confidentiality
-Preserving authorized restrictions on information
-access and disclosure, including means for protecting
-personal privacy and proprietary information. [44 U.S.C., SEC. 3542]
-|The unauthorized disclosure of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.
-|The unauthorized disclosure of information could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals.
-|The unauthorized disclosure of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
-|-
-|Integrity
-Guarding against improper information modification or destruction, and includes ensuring information nonrepudiation
-and authenticity. [44 U.S.C., SEC. 3542]
-|The unauthorized modification or destruction of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.
-|The unauthorized modification or destruction of information could be expected to have a serious adverse effect on
-organizational operations, organizational assets, or individuals.
-|The unauthorized modification or destruction of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
-|-
-|Availability
-Ensuring timely and reliable access to and use of information. [44 U.S.C., SEC. 3542]
-|The disruption of access to or use of information or an information system could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.
-|The disruption of access to or use of information or an information system could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals.
-|The disruption of access to or use of information or an information system could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
-|}
-```
+| SECURITY OBJECTIVE  | LOW |  MODERATE | HIGH 
+|---------------------|------------------------|-----------|-------
+| Confidentiality Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information. [44 U.S.C., SEC. 3542]   | The unauthorized disclosure of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.                                |    The unauthorized disclosure of information could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals.                                 |   The unauthorized disclosure of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
+|   Integrity Guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity. [44 U.S.C., SEC. 3542]                      |    The unauthorized modification or destruction of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.               |    The unauthorized modification or destruction of information could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals.                |   The unauthorized modification or destruction of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
+|   Availability Ensuring timely and reliable access to and use of information. [44 U.S.C., SEC. 3542]                                                                                           |   The disruption of access to or use of information or an information system could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.  |  The disruption of access to or use of information or an information system could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals.  |  The disruption of access to or use of information or an information system could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
 
 -   Map asset criticality against attacker profiles with use of a GRC
     (Governance Risk Management and Compliance) tool if available, or

@@ -1,4 +1,4 @@
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[Back to index][index]
 
 Key Activities
 ==============
@@ -27,7 +27,6 @@ Metric Definition
 | Vulnerability Class       | Likelihood Vulnerability Class Likelihood is the percentage of active applications that have at least one open vulnerability in a given vulnerability class over a given period of time. It is determined by counting the number of applications that have at least one open vulnerability in a given vulnerability class over the number of active applications.
   
 
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide]: Application Security Program Quick Start Guide
-    "wikilink"
+[index]: index.md "Index"

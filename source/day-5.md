@@ -1,12 +1,10 @@
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
 Key activities
 --------------
 
 -   Implement compensating controls & mitigation controls
 -   Remediation Prioritization
-
-<span id="Compensating Controls"></span>
 
 Compensating Controls
 ---------------------
@@ -16,8 +14,6 @@ Compensating Controls
     (WAFs) that inspect all traffic flowing to the web application for
     common web application attacks.
 
-<span id="Mitigating Controls"></span>
-
 Mitigating Controls
 -------------------
 
@@ -26,15 +22,12 @@ Mitigating Controls
     Control 6 of the CSIS 20 Critical Security Controls – Application
     Software Security. Build security into the development life cycle.
 
-<span id="Remediation Prioritization"></span>
-
 Remediation Prioritization
 --------------------------
 
 -   Implement remediation prioritization driven by financial
     calculations. Compare the cost of fixing specific
 
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
-  [\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide]: Application Security Program Quick Start Guide
-    "wikilink"
+[index]: index.md "Index"

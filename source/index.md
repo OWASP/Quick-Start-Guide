@@ -46,29 +46,29 @@ managing the risk of the entire organization.
 
 *'* Key Activities: *'*
 
--   [Management][]
--   [Security][]
--   [IT Operations][]
--   [Engineering Groups][]
+-   Management
+-   Security
+-   IT Operations
+-   Engineering Groups
 
-[Day 2][day-2.md]
+[Day 2][day-2]
 ---------
 
 *'* Key Activities: *'*
 
--   [Asset Discovery][]
--   [Asset Risk Prioritization][]
--   [Communication Plan][]
+-   Asset Discovery
+-   Asset Risk Prioritization
+-   Communication Plan]
 
-[Day 3][day-3.md]
+[Day 3][day-3]
 ---------
 
 *'* Key Activities: *'*
 
--   [Vulnerability Assessments][]
--   [Vulnerability Delivery][]
+-   Vulnerability Assessments
+-   Vulnerability Delivery
 
-[Day 4][day-4.md]
+[Day 4][day-4]
 ---------
 
 *'* Key Activities: *'*
@@ -80,9 +80,9 @@ managing the risk of the entire organization.
 
 *'* Key activities: *'*
 
--   [Compensating Controls][]
--   [Mitigating Controls][]
--   [Remediation Prioritization][]
+-   Compensating Controls
+-   Mitigating Controls
+-   Remediation Prioritization
 
 Conclusion
 ----------
@@ -91,23 +91,8 @@ Setting up an effective application security program does require
 commitment from all elements of the business, and a clear under
 
   [Day-1]: day-1.md "Day 1"
-  [Management]: day-1.md1#Management "Day 1 - Management"
-  [Security]: Day_1#Security "wikilink"
-  [IT Operations]: Day_1#IT_Operations "wikilink"
-  [Engineering Groups]: Day_1#Engineering_Groups "wikilink"
-  [Day 2]: Day 2 "wikilink"
-  [Asset Discovery]: Day_2#Asset_Discovery "wikilink"
-  [Asset Risk Prioritization]: Day_2#Asset_Risk_Prioritization
-    "wikilink"
-  [Communication Plan]: Day_2#Communication_Plan "wikilink"
-  [Day 3]: Day 3 "wikilink"
-  [Vulnerability Assessments]: Day_3#Vulnerability_Assessments
-    "wikilink"
-  [Vulnerability Delivery]: Day_3#Vulnerability_Delivery "wikilink"
-  [Day 4]: Day 4 "wikilink"
-  [Measured Metrics]: Day_4#Measured_Metrics "wikilink"
-  [Day 5]: Day 5 "wikilink"
-  [Compensating Controls]: Day_5#Compensating_Controls "wikilink"
-  [Mitigating Controls]: Day_5#Mitigating_Controls "wikilink"
-  [Remediation Prioritization]: Day_5#Remediation_Prioritization
-    "wikilink"
+  [Day-2]: day-1.md "Day 2"
+  [Day-3]: day-1.md "Day 3"
+  [Day-4]: day-1.md "Day 4"
+  [Day-5]: day-1.md "Day 5"
+  

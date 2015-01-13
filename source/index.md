@@ -91,7 +91,7 @@ Setting up an effective application security program does require
 commitment from all elements of the business, and a clear under
 
   [Day-1]: day-1.md "Day 1"
-  [Management]: Day_1#Management "wikilink"
+  [Management]: day-1.md1#Management "Day 1 - Management"
   [Security]: Day_1#Security "wikilink"
   [IT Operations]: Day_1#IT_Operations "wikilink"
   [Engineering Groups]: Day_1#Engineering_Groups "wikilink"

@@ -24,9 +24,17 @@ PDF Format: [OWASP Quick Start Guide.pdf](https://github.com/OWASP/Quick-Start-G
 
 Word Format: [OWASP Quick Start Guide 011215.docx](https://github.com/OWASP/Quick-Start-Guide/blob/master/OWASP%20Quick%20Start%20Guide%20011215.docx)
 
+![image](https://cloud.githubusercontent.com/assets/656739/5714109/1c85cd3a-9abc-11e4-92d9-b90c4da58440.png)
+
+
 ##Issues
+
 Please submit questions, comments, problems, typos, etc... as [Issues here](https://github.com/OWASP/Quick-Start-Guide/issues)
 
 
-##What it looks like
-![image](https://cloud.githubusercontent.com/assets/656739/5714046/34db0f7c-9abb-11e4-9a0d-3d6ca5e8d9c7.png)
+##Mailing list:
+
+https://lists.owasp.org/mailman/listinfo/owasp-application-security-program-quick-start-guide
+
+![image](https://cloud.githubusercontent.com/assets/656739/5714121/49884768-9abc-11e4-9f95-443f366a1046.png)
+

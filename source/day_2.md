@@ -1,4 +1,4 @@
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
+[back to index][index]
 
 Key Activities
 --------------
@@ -104,7 +104,6 @@ Communication Plan
 [\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
 
 
+[back to index][index]
 
-  [\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide]: Application Security Program Quick Start Guide
-    "wikilink"
-  [1]: http://csrc.nist.gov/publications/fips/fips199/FIPSPUB-199-final.pdf
+[index]: index.md "Index"

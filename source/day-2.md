@@ -11,8 +11,6 @@ Key Activities
     Application Security assessment program.
 -   Provide a single point of contact for the program.
 
-<span id="Asset Discovery"></span>
-
 Asset Discovery
 ---------------
 
@@ -25,16 +23,13 @@ Asset Discovery
 -   Identify the rate of application change (e.g. monthly, weekly,
     etc.…)
 
-<span id="Asset Risk Prioritization"></span>
-
 Asset Risk Prioritization
 -------------------------
 
 -   Develop or leverage existing methodology for stack ranking the value
     of your assets to the business based on
 
-impact to confidentiality, integrity and availability (C.I.A.). (See:
-[1][])
+impact to confidentiality, integrity and availability (C.I.A.). (See: http://csrc.nist.gov/publications/fips/fips199/FIPS- PUB-199-final.pdf)
 
 Table: SECURITY OBJECTIVE vs POTENTIAL IMPACT (Low, Moderate, High)
 
@@ -58,8 +53,6 @@ For example:
 -   Implement ISO 17799: Asset Management or similar standard to improve
     governance of application assets.
 
-<span id="Communication Plan"></span>
-
 Communication Plan
 ------------------
 
@@ -74,9 +67,6 @@ Communication Plan
 -   Define, document and share application business continuity and
     incident response plan. (Business Continuity Plan Resources: ITIL,
     COBIT, NIST)
-
-[\< Back to The Application\_Security\_Program\_Quick\_Start\_Guide][]
-
 
 [back to index][index]
 

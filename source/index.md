@@ -41,7 +41,7 @@ should be asked by those who are in charge of the application security
 program in your organization, this includes those responsible for
 managing the risk of the entire organization.
 
-[Day 1][]
+[Day 1][day-1]
 ---------
 
 *'* Key Activities: *'*
@@ -51,7 +51,7 @@ managing the risk of the entire organization.
 -   [IT Operations][]
 -   [Engineering Groups][]
 
-[Day 2][]
+[Day 2][day-2.md]
 ---------
 
 *'* Key Activities: *'*
@@ -60,7 +60,7 @@ managing the risk of the entire organization.
 -   [Asset Risk Prioritization][]
 -   [Communication Plan][]
 
-[Day 3][]
+[Day 3][day-3.md]
 ---------
 
 *'* Key Activities: *'*
@@ -68,14 +68,14 @@ managing the risk of the entire organization.
 -   [Vulnerability Assessments][]
 -   [Vulnerability Delivery][]
 
-[Day 4][]
+[Day 4][day-4.md]
 ---------
 
 *'* Key Activities: *'*
 
 -   [Measured Metrics][]
 
-[Day 5][]
+[Day 4][day-4.md]
 ---------
 
 *'* Key activities: *'*
@@ -90,7 +90,7 @@ Conclusion
 Setting up an effective application security program does require
 commitment from all elements of the business, and a clear under
 
-  [Day 1]: Day 1 "wikilink"
+  [Day-1]: day-1.md "Day 1"
   [Management]: Day_1#Management "wikilink"
   [Security]: Day_1#Security "wikilink"
   [IT Operations]: Day_1#IT_Operations "wikilink"
